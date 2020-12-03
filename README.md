@@ -1,6 +1,7 @@
 # djano_admin_logs
 
 Track your admin log entries by using  LogEntry model.
+Add the code into your admin.py file
 
 Results :
 
